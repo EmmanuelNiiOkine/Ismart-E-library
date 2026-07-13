@@ -1,0 +1,18 @@
+# Large documents — served locally via upload/IndexedDB only
+*.pdf
+*.docx
+
+# Sample uploads folder (binaries only; paths fall back to generated reader text on prod)
+public/samples/
+
+# Local download cache
+downloaded-books/
+
+# Root-level test files
+spiva-australia-year-end-2024.pdf
+iSmartPay Dashboard issues(1).docx
+
+# Dev / tooling
+scripts/.ghalii-browser-profile/
+node_modules/
+.git/

@@ -1,0 +1,58 @@
+{
+  "collection": "Acts of Ghana",
+  "source": "https://ghalii.org",
+  "category": "statutes-and-legislation",
+  "started_at": "2026-07-09T16:38:48.312091+00:00",
+  "updated_at": "2026-07-09T16:47:30.850889+00:00",
+  "acts": [
+    {
+      "title": "1970-71 Appropriation Act, 1970",
+      "year": "1970",
+      "act_number": "346",
+      "date": "1970-07-01",
+      "path": "/akn/gh/act/1970/346/eng@1970-07-01",
+      "url": "https://ghalii.org/akn/gh/act/1970/346/eng@1970-07-01",
+      "pdf_url": "https://ghalii.org/akn/gh/act/1970/346/eng@1970-07-01/source",
+      "filename": "Act-346-of-1970-1970-71-appropriation-act-1970.pdf",
+      "file_path": "/Users/cliq-tech/Desktop/Ismart E-library/downloaded-books/statutes-and-legislation/acts-of-ghana/by-year/1970/Act-346-of-1970-1970-71-appropriation-act-1970.pdf",
+      "status": "failed",
+      "file_size_bytes": null,
+      "downloaded_at": null,
+      "error": "Cloudflare challenge did not complete"
+    },
+    {
+      "title": "2009 Supplementary Appropriation Act, 2010",
+      "year": "2010",
+      "act_number": "796",
+      "date": "2010-04-16",
+      "path": "/akn/gh/act/2010/796/eng@2010-04-16",
+      "url": "https://ghalii.org/akn/gh/act/2010/796/eng@2010-04-16",
+      "pdf_url": "https://ghalii.org/akn/gh/act/2010/796/eng@2010-04-16/source",
+      "filename": "Act-796-of-2010-2009-supplementary-appropriation-act-2010.pdf",
+      "file_path": "/Users/cliq-tech/Desktop/Ismart E-library/downloaded-books/statutes-and-legislation/acts-of-ghana/by-year/2010/Act-796-of-2010-2009-supplementary-appropriation-act-2010.pdf",
+      "status": "failed",
+      "file_size_bytes": null,
+      "downloaded_at": null,
+      "error": "Cloudflare challenge did not complete"
+    },
+    {
+      "title": "Administration of Estates Act, 1961",
+      "year": "1961",
+      "act_number": "63",
+      "date": "1961-12-31",
+      "path": "/akn/gh/act/1961/63/eng@1961-12-31",
+      "url": "https://ghalii.org/akn/gh/act/1961/63/eng@1961-12-31",
+      "pdf_url": "https://ghalii.org/akn/gh/act/1961/63/eng@1961-12-31/source",
+      "filename": "Act-63-of-1961-administration-of-estates-act-1961.pdf",
+      "file_path": "/Users/cliq-tech/Desktop/Ismart E-library/downloaded-books/statutes-and-legislation/acts-of-ghana/by-year/1961/Act-63-of-1961-administration-of-estates-act-1961.pdf",
+      "status": "failed",
+      "file_size_bytes": null,
+      "downloaded_at": null,
+      "error": "Cloudflare challenge did not complete"
+    }
+  ],
+  "total": 3,
+  "downloaded": 0,
+  "failed": 3,
+  "skipped": 0
+}
